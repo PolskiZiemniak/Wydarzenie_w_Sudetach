@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wydarzenie w Sudetach</string>
+    <string name="likes">%1$s polubień</string>
+    <string name="likeButton">POLUB</string>
+    <string name="deleteButton">USUŃ</string>
+    <string name="saveButton">ZAPISZ</string>
+    <string name="showUserButton">ZOBACZ UCZESTNIKA</string>
+    <string name="emailEditText">Podaj e-mail: </string>
+    <string name="emailHint">email</string>
+    <string name="passEditText">Podaj hasło: </string>
+    <string name="repPassEditText">Powtórz hasło: </string>
+    <string name="infoText">Obszar komunikatów</string>
+</resources>
