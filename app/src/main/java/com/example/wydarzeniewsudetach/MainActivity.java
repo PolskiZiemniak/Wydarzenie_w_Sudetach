@@ -71,8 +71,6 @@ public class MainActivity extends AppCompatActivity {
         }
     }
     public void showUser(){
-        if(!lastRegisteredEmail.isEmpty()){
             infoBox.setText(lastRegisteredEmail);
-        }
     }
 }
